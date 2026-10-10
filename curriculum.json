@@ -1,0 +1,603 @@
+{
+  "title": "战后经济与金融史",
+  "target_body_han": [
+    480000,
+    600000
+  ],
+  "history_cutoff": "2024-12-31",
+  "research_cutoff": "2026-10-10",
+  "parts": [
+    {
+      "number": 1,
+      "title": "战后秩序的建立",
+      "period": "1914—1960年代"
+    },
+    {
+      "number": 2,
+      "title": "中国计划经济的形成与调整",
+      "period": "1949—1978"
+    },
+    {
+      "number": 3,
+      "title": "固定汇率瓦解与大通胀",
+      "period": "1960年代—1982"
+    },
+    {
+      "number": 4,
+      "title": "市场化改革与债务扩张",
+      "period": "1978—1994"
+    },
+    {
+      "number": 5,
+      "title": "日本泡沫与中国制度重构",
+      "period": "1985—2001"
+    },
+    {
+      "number": 6,
+      "title": "全球化资本流动与危机",
+      "period": "1990年代—2007"
+    },
+    {
+      "number": 7,
+      "title": "全球金融危机与政策救援",
+      "period": "2007—2012"
+    },
+    {
+      "number": 8,
+      "title": "低利率时代与全球化转向",
+      "period": "2010—2019"
+    },
+    {
+      "number": 9,
+      "title": "中国增长换挡与政策再平衡",
+      "period": "2010—2019"
+    },
+    {
+      "number": 10,
+      "title": "疫情通胀与新的政策约束",
+      "period": "2020—2024及有证据的延伸"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "part": 1,
+      "slug": "interwar-origins",
+      "file": "01-interwar-origins.md",
+      "title": "为什么战后秩序不能回到战前",
+      "scope": "金本位的调整机制；一战债务与赔款；战间期复归；大萧条银行和贸易危机；战后制度设计的具体教训",
+      "status": "reviewed"
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "slug": "bretton-woods",
+      "file": "02-bretton-woods.md",
+      "title": "布雷顿森林谈判与制度设计",
+      "scope": "凯恩斯与怀特方案；英美利益和权力；美元黄金及可调整钉住；IMF提款和世界银行；资本管制；1944设计与后续运行的差别",
+      "status": "reviewed"
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "slug": "reconstruction",
+      "file": "03-reconstruction.md",
+      "title": "欧洲重建与美元短缺",
+      "scope": "欧洲战争遗产；马歇尔计划拨款和对等基金；贸易支付困难；欧洲支付同盟；债务安排；1958兑换节点",
+      "status": "reviewed"
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "slug": "postwar-growth",
+      "file": "04-postwar-growth.md",
+      "title": "美国欧洲与日本的战后增长",
+      "scope": "追赶与技术扩散；日本占领改革和产业政策；欧洲劳资制度；美国生产率与需求；人口投资贸易的贡献和分配",
+      "status": "reviewed"
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "slug": "managed-finance",
+      "file": "05-managed-finance.md",
+      "title": "受管制的战后金融体系",
+      "scope": "银行分业和利率约束；资本账户限制；财政债务与1951美联储财政部协议；金融压抑的收益成本；离岸美元市场萌芽",
+      "status": "reviewed"
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "slug": "dollar-contradiction",
+      "file": "06-dollar-contradiction.md",
+      "title": "美元从短缺到过剩",
+      "scope": "美国对外资本与经常项目区别；海外美元积累；黄金承诺；特里芬矛盾；黄金总库互换额度和SDR；为1971危机铺垫",
+      "status": "reviewed"
+    },
+    {
+      "number": 7,
+      "part": 2,
+      "slug": "china-stabilization",
+      "file": "07-china-stabilization.md",
+      "title": "中国经济恢复与财政金融统一",
+      "scope": "战前和内战通胀背景；人民币与财政统一；银元和米棉之战；稳定物价的财政贸易生产基础；土地改革和恢复",
+      "status": "reviewed"
+    },
+    {
+      "number": 8,
+      "part": 2,
+      "slug": "china-planning",
+      "file": "08-china-planning.md",
+      "title": "工业化战略与计划体制的形成",
+      "scope": "一五计划；苏联援助和156项工程口径；重工业资金；统购统销；农业合作化与工商业改造；城乡制度",
+      "status": "reviewed"
+    },
+    {
+      "number": 9,
+      "part": 2,
+      "slug": "china-great-leap",
+      "file": "09-china-great-leap.md",
+      "title": "大跃进公社化与经济失衡",
+      "scope": "赶超目标；组织激励和信息失真；劳动力与粮食配置；征购与供给；饥荒因果和人口估计分歧；纠偏为何延迟",
+      "status": "reviewed"
+    },
+    {
+      "number": 10,
+      "part": 2,
+      "slug": "china-readjustment",
+      "file": "10-china-readjustment.md",
+      "title": "1960年代调整与经济恢复",
+      "scope": "调整巩固充实提高；农业政策与工业收缩；财政信贷实物平衡；城乡人口；中苏关系变化和债务；恢复的证据",
+      "status": "reviewed"
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "slug": "china-cultural-revolution",
+      "file": "11-china-cultural-revolution.md",
+      "title": "政治运动三线建设与经济运行",
+      "scope": "文革冲击及不同阶段；三线建设安全与效率；工农业组织；教育科研人力资本；1970年代对外技术引进",
+      "status": "reviewed"
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "slug": "china-reform-start",
+      "file": "12-china-reform-start.md",
+      "title": "1978年前后的约束与改革起点",
+      "scope": "计划体制成就与代价；生产消费财政约束；就业人口农业；1977—1978投资与引进；思想和政治转向；改革可选路径；篇综合",
+      "status": "reviewed"
+    },
+    {
+      "number": 13,
+      "part": 3,
+      "slug": "inflation-origins",
+      "file": "13-inflation-origins.md",
+      "title": "美国大通胀的积累",
+      "scope": "1960年代财政货币政策；就业目标和菲利普斯曲线；政策误判与生产率；工资价格预期；不同解释和证据",
+      "status": "reviewed"
+    },
+    {
+      "number": 14,
+      "part": 3,
+      "slug": "gold-window",
+      "file": "14-gold-window.md",
+      "title": "1971年关闭黄金窗口",
+      "scope": "美元黄金压力；尼克松决策；新经济政策工资价格管制和进口附加税；外国央行与谈判；宣布和执行区分",
+      "status": "reviewed"
+    },
+    {
+      "number": 15,
+      "part": 3,
+      "slug": "floating-rates",
+      "file": "15-floating-rates.md",
+      "title": "从史密森协议到浮动汇率",
+      "scope": "1971平价重组；1973投机流动与浮动；1976牙买加及制度法律化；欧洲货币合作；浮动制度真实约束",
+      "status": "reviewed"
+    },
+    {
+      "number": 16,
+      "part": 3,
+      "slug": "oil-stagflation",
+      "file": "16-oil-stagflation.md",
+      "title": "两次石油冲击与滞胀",
+      "scope": "1973—1974和1979事件区别；产油国与油价机制；能源输入与实际收入转移；工资就业国际收支；政策反应",
+      "status": "reviewed"
+    },
+    {
+      "number": 17,
+      "part": 3,
+      "slug": "failed-disinflation",
+      "file": "17-failed-disinflation.md",
+      "title": "反通胀政策为什么反复",
+      "scope": "福特卡特政策；价格管制与放开；停停走走；1978美元压力；货币增长与金融创新；财政和供给侧条件",
+      "status": "reviewed"
+    },
+    {
+      "number": 18,
+      "part": 3,
+      "slug": "volcker",
+      "file": "18-volcker.md",
+      "title": "沃尔克紧缩及其全球代价",
+      "scope": "1979操作机制改变；非借入准备金和利率；1980信贷管制；1981—1982衰退；就业产业债务；信誉解释的边界；篇综合",
+      "status": "reviewed"
+    },
+    {
+      "number": 19,
+      "part": 4,
+      "slug": "thatcher-reagan",
+      "file": "19-thatcher-reagan.md",
+      "title": "英国与美国的政策转向",
+      "scope": "撒切尔与里根的不同；国有化遗产；减税私有化工会监管；财政赤字和分配；政策结果多因素",
+      "status": "reviewed"
+    },
+    {
+      "number": 20,
+      "part": 4,
+      "slug": "latin-debt",
+      "file": "20-latin-debt.md",
+      "title": "拉美债务危机与失去的十年",
+      "scope": "石油美元银行循环；美元浮息债；墨西哥1982；IMF调整；贝克与布雷迪计划；国内外分担",
+      "status": "reviewed"
+    },
+    {
+      "number": 21,
+      "part": 4,
+      "slug": "savings-loan",
+      "file": "21-savings-loan.md",
+      "title": "金融自由化与美国储贷危机",
+      "scope": "储贷机构期限错配；脱媒；解除限制与存款保险激励；监管宽容和欺诈；处置和成本",
+      "status": "reviewed"
+    },
+    {
+      "number": 22,
+      "part": 4,
+      "slug": "china-rural-reform",
+      "file": "22-china-rural-reform.md",
+      "title": "农村改革乡镇企业与开放试验",
+      "scope": "包产到户不同起点；农业价格与产量；乡镇企业产权；特区；中央地方财政激励；增长分解",
+      "status": "reviewed"
+    },
+    {
+      "number": 23,
+      "part": 4,
+      "slug": "china-dual-track",
+      "file": "23-china-dual-track.md",
+      "title": "双轨制价格改革与通胀治理",
+      "scope": "计划内外价格；城市改革；银行信贷和预算；1988价格闯关抢购；1989后治理；1992南方谈话与改革加速",
+      "status": "reviewed"
+    },
+    {
+      "number": 24,
+      "part": 4,
+      "slug": "post-socialist-transition",
+      "file": "24-post-socialist-transition.md",
+      "title": "苏联解体与转轨经济的不同道路",
+      "scope": "晚期苏联改革和联盟财政；价格开放；私有化与国家能力；俄罗斯和中东欧差异；同中国比较的边界；篇综合",
+      "status": "reviewed"
+    },
+    {
+      "number": 25,
+      "part": 5,
+      "slug": "plaza-japan",
+      "file": "25-plaza-japan.md",
+      "title": "广场协议与日本的政策选择",
+      "scope": "美元升值美国外部压力；广场与卢浮宫协议区别；日元与出口利润；货币财政和金融自由化；单因论检验",
+      "status": "reviewed"
+    },
+    {
+      "number": 26,
+      "part": 5,
+      "slug": "japan-bubble",
+      "file": "26-japan-bubble.md",
+      "title": "日本土地股票与信贷泡沫",
+      "scope": "土地抵押和银行竞争；企业财务与交叉持股；监管和资产预期；泡沫量度；紧缩与总量限制",
+      "status": "reviewed"
+    },
+    {
+      "number": 27,
+      "part": 5,
+      "slug": "japan-repair",
+      "file": "27-japan-repair.md",
+      "title": "日本泡沫破裂与长期修复",
+      "scope": "银行坏账识别；1990年代多次冲击和处置；企业去杠杆；零利率QE；财政消费税与人口；资产负债表衰退争议",
+      "status": "reviewed"
+    },
+    {
+      "number": 28,
+      "part": 5,
+      "slug": "china-1994",
+      "file": "28-china-1994.md",
+      "title": "1994年财税汇率与金融改革",
+      "scope": "1993过热；分税制增值税与转移支付；汇率并轨结售汇；政策性银行；政策之间接口及地方后果",
+      "status": "reviewed"
+    },
+    {
+      "number": 29,
+      "part": 5,
+      "slug": "china-soe-banks",
+      "file": "29-china-soe-banks.md",
+      "title": "国企重组就业与银行改革",
+      "scope": "抓大放小；企业债务和社会职能；下岗社保；1998资本补充与1999AMC；后续注资上市接口",
+      "status": "reviewed"
+    },
+    {
+      "number": 30,
+      "part": 5,
+      "slug": "china-housing",
+      "file": "30-china-housing.md",
+      "title": "住房改革土地制度与家庭资产",
+      "scope": "土地使用权制度；公房出售公积金与按揭；1994和1998改革；开发地方财政与家庭分配；不把土地财政归结一个政策；篇综合",
+      "status": "reviewed"
+    },
+    {
+      "number": 31,
+      "part": 6,
+      "slug": "europe-mexico",
+      "file": "31-europe-mexico.md",
+      "title": "欧洲汇率机制与墨西哥危机",
+      "scope": "1992—1993ERM；德国统一与利率；1994—1995墨西哥tesobonos；货币承诺和债务币种；救助比较",
+      "status": "reviewed"
+    },
+    {
+      "number": 32,
+      "part": 6,
+      "slug": "asian-crisis",
+      "file": "32-asian-crisis.md",
+      "title": "亚洲金融危机的起因与扩散",
+      "scope": "泰国金融房地产外债；韩国企业银行；印尼政治经济；马来西亚资本管制；IMF方案争议与恢复差异",
+      "status": "reviewed"
+    },
+    {
+      "number": 33,
+      "part": 6,
+      "slug": "russia-ltcm",
+      "file": "33-russia-ltcm.md",
+      "title": "俄罗斯违约与LTCM",
+      "scope": "俄罗斯税收GKO汇率；1998违约和汇率；LTCM价差收敛杠杆抵押；流动性传染与私人重组",
+      "status": "reviewed"
+    },
+    {
+      "number": 34,
+      "part": 6,
+      "slug": "dotcom",
+      "file": "34-dotcom.md",
+      "title": "互联网革命与资本市场泡沫",
+      "scope": "技术生产率和投资；上市估值与融资；电信产能；崩盘和企业造假区别；货币政策与后续住房不能直线归因",
+      "status": "reviewed"
+    },
+    {
+      "number": 35,
+      "part": 6,
+      "slug": "china-wto",
+      "file": "35-china-wto.md",
+      "title": "中国入世与全球生产网络",
+      "scope": "入世谈判和承诺；关税国企农业服务；就业产业和地区分配；外资加工贸易技术；银行改革与竞争",
+      "status": "reviewed"
+    },
+    {
+      "number": 36,
+      "part": 6,
+      "slug": "global-imbalances",
+      "file": "36-global-imbalances.md",
+      "title": "全球失衡与危机前繁荣",
+      "scope": "储蓄过剩与金融弹性等竞争解释；中国外汇储备2005汇改；美国住房金融；欧洲内部失衡；货币与资本流量；篇综合",
+      "status": "reviewed"
+    },
+    {
+      "number": 37,
+      "part": 7,
+      "slug": "us-housing-credit",
+      "file": "37-us-housing-credit.md",
+      "title": "美国住房信贷与证券化",
+      "scope": "抵押贷款类型和承销；证券化结构与评级；激励监管；房价信用循环；借款人差异",
+      "status": "reviewed"
+    },
+    {
+      "number": 38,
+      "part": 7,
+      "slug": "global-dollar-run",
+      "file": "38-global-dollar-run.md",
+      "title": "从次贷损失到全球融资挤兑",
+      "scope": "ABCP与回购；2007基金和银行；贝尔斯登两房雷曼AIG；货币基金；跨境美元；逐笔资产负债传染",
+      "status": "reviewed"
+    },
+    {
+      "number": 39,
+      "part": 7,
+      "slug": "bailouts",
+      "file": "39-bailouts.md",
+      "title": "担保注资与危机处置",
+      "scope": "美国TARP压力测试和其他国家对照；授权实际支出回收成本；流动性与偿付；住房救助分配与道德风险",
+      "status": "reviewed"
+    },
+    {
+      "number": 40,
+      "part": 7,
+      "slug": "qe-fiscal",
+      "file": "40-qe-fiscal.md",
+      "title": "零利率量化宽松与财政刺激",
+      "scope": "QE操作和传导；互换额度；自动稳定器和刺激；乘数识别；就业与资产价格；退出争论",
+      "status": "reviewed"
+    },
+    {
+      "number": 41,
+      "part": 7,
+      "slug": "china-stimulus",
+      "file": "41-china-stimulus.md",
+      "title": "中国刺激政策与地方融资扩张",
+      "scope": "四万亿构成和预算分摊；2009信贷；融资平台和土地抵押；基建产业就业；后续债务与收益",
+      "status": "reviewed"
+    },
+    {
+      "number": 42,
+      "part": 7,
+      "slug": "euro-crisis",
+      "file": "42-euro-crisis.md",
+      "title": "欧债危机与货币联盟的边界",
+      "scope": "希腊与爱尔兰西班牙区别；银行主权循环；TARGET2；救助重组紧缩；OMT承诺条件；篇综合",
+      "status": "reviewed"
+    },
+    {
+      "number": 43,
+      "part": 8,
+      "slug": "qe-decade",
+      "file": "43-qe-decade.md",
+      "title": "量化宽松低通胀与资产价格",
+      "scope": "央行扩表准备金和信用；负利率；就业工资分配；长期停滞和自然利率争论",
+      "status": "reviewed"
+    },
+    {
+      "number": 44,
+      "part": 8,
+      "slug": "austerity-politics",
+      "file": "44-austerity-politics.md",
+      "title": "财政紧缩与危机后的政治经济",
+      "scope": "欧美财政选择；英国与欧陆对照；不平等地区分化；政策效果与政治因果识别",
+      "status": "reviewed"
+    },
+    {
+      "number": 45,
+      "part": 8,
+      "slug": "japan-abenomics",
+      "file": "45-japan-abenomics.md",
+      "title": "安倍经济学与日本长期停滞",
+      "scope": "三支箭；QQE负利率收益率曲线控制；工资就业通胀；财政人口和结构限制",
+      "status": "reviewed"
+    },
+    {
+      "number": 46,
+      "part": 8,
+      "slug": "emerging-cycle",
+      "file": "46-emerging-cycle.md",
+      "title": "美元周期与新兴市场调整",
+      "scope": "2013缩减恐慌；商品周期；巴西土耳其阿根廷等有选择深挖；债务币种与国内政策",
+      "status": "reviewed"
+    },
+    {
+      "number": 47,
+      "part": 8,
+      "slug": "financial-regulation",
+      "file": "47-financial-regulation.md",
+      "title": "危机后监管银行与非银行金融",
+      "scope": "巴塞尔资本流动性；处置制度；压力测试；风险迁移；市场流动性与基金杠杆",
+      "status": "reviewed"
+    },
+    {
+      "number": 48,
+      "part": 8,
+      "slug": "globalization-turn",
+      "file": "48-globalization-turn.md",
+      "title": "贸易冲突与产业政策回归",
+      "scope": "贸易冲击和技术冲击区别；脱欧；中美贸易冲突；关税供应链与国家安全；篇综合",
+      "status": "reviewed"
+    },
+    {
+      "number": 49,
+      "part": 9,
+      "slug": "china-growth-transition",
+      "file": "49-china-growth-transition.md",
+      "title": "中国增长换挡与投资模式约束",
+      "scope": "人口生产率资本回报；地方增长激励；投资消费收入分配；旧模式边际变化",
+      "status": "reviewed"
+    },
+    {
+      "number": 50,
+      "part": 9,
+      "slug": "china-shadow-banking",
+      "file": "50-china-shadow-banking.md",
+      "title": "影子银行理财与地方债",
+      "scope": "信托委托贷款理财和通道；利率限制与监管套利；2013钱荒；2014—2015预算和债务置换",
+      "status": "reviewed"
+    },
+    {
+      "number": 51,
+      "part": 9,
+      "slug": "china-2015",
+      "file": "51-china-2015.md",
+      "title": "2015年股市波动汇改与资本流动",
+      "scope": "融资融券场外配资；救市不同工具；811汇改；离岸在岸与储备；不同事件联系和差别",
+      "status": "reviewed"
+    },
+    {
+      "number": 52,
+      "part": 9,
+      "slug": "china-supply-side",
+      "file": "52-china-supply-side.md",
+      "title": "供给侧改革去产能与房地产去库存",
+      "scope": "三去一降一补；煤钢价格和产能；棚改货币化；企业和地区分配；执行与目标区别",
+      "status": "reviewed"
+    },
+    {
+      "number": 53,
+      "part": 9,
+      "slug": "china-deleveraging",
+      "file": "53-china-deleveraging.md",
+      "title": "金融去杠杆资管新规与政策调整",
+      "scope": "2016—2018监管链条；同业和委外；资管新规；民营融资；稳增长与防风险再平衡",
+      "status": "reviewed"
+    },
+    {
+      "number": 54,
+      "part": 9,
+      "slug": "china-rebalancing",
+      "file": "54-china-rebalancing.md",
+      "title": "土地住房地方财政与再平衡难题",
+      "scope": "财政事权收入错配；住房地区和家庭差异；消费社保户籍；外部贸易压力；政策目标冲突；篇综合",
+      "status": "reviewed"
+    },
+    {
+      "number": 55,
+      "part": 10,
+      "slug": "pandemic-support",
+      "file": "55-pandemic-support.md",
+      "title": "疫情冲击与各国经济支持",
+      "scope": "供给和接触型服务；美欧中家庭企业财政信贷工具对照；劳动力与供应链；授权支出和融资",
+      "status": "reviewed"
+    },
+    {
+      "number": 56,
+      "part": 10,
+      "slug": "inflation-return",
+      "file": "56-inflation-return.md",
+      "title": "通胀回归与政策判断改变",
+      "scope": "需求供给能源与俄乌战争；财政转移和消费结构；工资预期；暂时性判断与不同国家；同1970年代比较",
+      "status": "reviewed"
+    },
+    {
+      "number": 57,
+      "part": 10,
+      "slug": "tightening-fragility",
+      "file": "57-tightening-fragility.md",
+      "title": "快速加息与金融体系压力",
+      "scope": "利率风险和2023美国银行；瑞信区别；英国2022LDI；美元与跨境；资产负债逐笔推演",
+      "status": "reviewed"
+    },
+    {
+      "number": 58,
+      "part": 10,
+      "slug": "china-property-adjustment",
+      "file": "58-china-property-adjustment.md",
+      "title": "中国房地产调整与保交付",
+      "scope": "预售融资房企债务；监管和长期转折；违约到施工和家庭；保交楼保交房工具；政策效果与地区差异",
+      "status": "reviewed"
+    },
+    {
+      "number": 59,
+      "part": 10,
+      "slug": "china-debt-growth",
+      "file": "59-china-debt-growth.md",
+      "title": "中国地方债增长政策与新约束",
+      "scope": "土地收入变化；隐性债化解与财政资源；低通胀内需产业政策；2024政策调整；已知效果和争议分开",
+      "status": "reviewed"
+    },
+    {
+      "number": 60,
+      "part": 10,
+      "slug": "historical-comparison",
+      "file": "60-historical-comparison.md",
+      "title": "跨越八十年的政策与危机比较",
+      "scope": "通胀汇率银行主权债危机矩阵；政策选择和分配；成功失败条件；跨国比较实作完整示范；开放问题",
+      "status": "reviewed"
+    }
+  ]
+}

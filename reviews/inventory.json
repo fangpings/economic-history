@@ -1,0 +1,613 @@
+{
+  "warning": "Counts and structure do not prove historical accuracy or editorial completion. Body counts are estimates; headings must be checked before final acceptance.",
+  "chapters_planned": 60,
+  "chapters_present": 60,
+  "body_han_estimate": 668086,
+  "whole_chapter_han": 723680,
+  "missing": [],
+  "below_planned_depth_length": [],
+  "structural_errors": [],
+  "planned_but_unwritten_links": [],
+  "chapters": [
+    {
+      "number": 1,
+      "part": 1,
+      "file": "01-interwar-origins.md",
+      "exists": true,
+      "body_han_estimate": 12400,
+      "whole_chapter_han": 13252,
+      "external_links": 25,
+      "headings": 12
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "file": "02-bretton-woods.md",
+      "exists": true,
+      "body_han_estimate": 9653,
+      "whole_chapter_han": 10620,
+      "external_links": 17,
+      "headings": 10
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "file": "03-reconstruction.md",
+      "exists": true,
+      "body_han_estimate": 10559,
+      "whole_chapter_han": 11404,
+      "external_links": 23,
+      "headings": 9
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "file": "04-postwar-growth.md",
+      "exists": true,
+      "body_han_estimate": 9953,
+      "whole_chapter_han": 10777,
+      "external_links": 29,
+      "headings": 8
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "file": "05-managed-finance.md",
+      "exists": true,
+      "body_han_estimate": 9294,
+      "whole_chapter_han": 10137,
+      "external_links": 15,
+      "headings": 9
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "file": "06-dollar-contradiction.md",
+      "exists": true,
+      "body_han_estimate": 9692,
+      "whole_chapter_han": 10505,
+      "external_links": 20,
+      "headings": 9
+    },
+    {
+      "number": 7,
+      "part": 2,
+      "file": "07-china-stabilization.md",
+      "exists": true,
+      "body_han_estimate": 13461,
+      "whole_chapter_han": 14354,
+      "external_links": 29,
+      "headings": 10
+    },
+    {
+      "number": 8,
+      "part": 2,
+      "file": "08-china-planning.md",
+      "exists": true,
+      "body_han_estimate": 12630,
+      "whole_chapter_han": 13370,
+      "external_links": 26,
+      "headings": 10
+    },
+    {
+      "number": 9,
+      "part": 2,
+      "file": "09-china-great-leap.md",
+      "exists": true,
+      "body_han_estimate": 13598,
+      "whole_chapter_han": 14469,
+      "external_links": 28,
+      "headings": 12
+    },
+    {
+      "number": 10,
+      "part": 2,
+      "file": "10-china-readjustment.md",
+      "exists": true,
+      "body_han_estimate": 14068,
+      "whole_chapter_han": 14909,
+      "external_links": 28,
+      "headings": 11
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "file": "11-china-cultural-revolution.md",
+      "exists": true,
+      "body_han_estimate": 14013,
+      "whole_chapter_han": 14768,
+      "external_links": 24,
+      "headings": 11
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "file": "12-china-reform-start.md",
+      "exists": true,
+      "body_han_estimate": 13794,
+      "whole_chapter_han": 14430,
+      "external_links": 22,
+      "headings": 11
+    },
+    {
+      "number": 13,
+      "part": 3,
+      "file": "13-inflation-origins.md",
+      "exists": true,
+      "body_han_estimate": 11632,
+      "whole_chapter_han": 12503,
+      "external_links": 31,
+      "headings": 13
+    },
+    {
+      "number": 14,
+      "part": 3,
+      "file": "14-gold-window.md",
+      "exists": true,
+      "body_han_estimate": 10373,
+      "whole_chapter_han": 11227,
+      "external_links": 20,
+      "headings": 13
+    },
+    {
+      "number": 15,
+      "part": 3,
+      "file": "15-floating-rates.md",
+      "exists": true,
+      "body_han_estimate": 9564,
+      "whole_chapter_han": 10258,
+      "external_links": 17,
+      "headings": 13
+    },
+    {
+      "number": 16,
+      "part": 3,
+      "file": "16-oil-stagflation.md",
+      "exists": true,
+      "body_han_estimate": 10501,
+      "whole_chapter_han": 11548,
+      "external_links": 22,
+      "headings": 14
+    },
+    {
+      "number": 17,
+      "part": 3,
+      "file": "17-failed-disinflation.md",
+      "exists": true,
+      "body_han_estimate": 9220,
+      "whole_chapter_han": 10195,
+      "external_links": 19,
+      "headings": 12
+    },
+    {
+      "number": 18,
+      "part": 3,
+      "file": "18-volcker.md",
+      "exists": true,
+      "body_han_estimate": 12151,
+      "whole_chapter_han": 13011,
+      "external_links": 27,
+      "headings": 13
+    },
+    {
+      "number": 19,
+      "part": 4,
+      "file": "19-thatcher-reagan.md",
+      "exists": true,
+      "body_han_estimate": 11451,
+      "whole_chapter_han": 12620,
+      "external_links": 35,
+      "headings": 10
+    },
+    {
+      "number": 20,
+      "part": 4,
+      "file": "20-latin-debt.md",
+      "exists": true,
+      "body_han_estimate": 11864,
+      "whole_chapter_han": 12912,
+      "external_links": 23,
+      "headings": 10
+    },
+    {
+      "number": 21,
+      "part": 4,
+      "file": "21-savings-loan.md",
+      "exists": true,
+      "body_han_estimate": 10788,
+      "whole_chapter_han": 11804,
+      "external_links": 16,
+      "headings": 10
+    },
+    {
+      "number": 22,
+      "part": 4,
+      "file": "22-china-rural-reform.md",
+      "exists": true,
+      "body_han_estimate": 11678,
+      "whole_chapter_han": 12826,
+      "external_links": 22,
+      "headings": 10
+    },
+    {
+      "number": 23,
+      "part": 4,
+      "file": "23-china-dual-track.md",
+      "exists": true,
+      "body_han_estimate": 11333,
+      "whole_chapter_han": 12530,
+      "external_links": 27,
+      "headings": 10
+    },
+    {
+      "number": 24,
+      "part": 4,
+      "file": "24-post-socialist-transition.md",
+      "exists": true,
+      "body_han_estimate": 12906,
+      "whole_chapter_han": 14032,
+      "external_links": 23,
+      "headings": 10
+    },
+    {
+      "number": 25,
+      "part": 5,
+      "file": "25-plaza-japan.md",
+      "exists": true,
+      "body_han_estimate": 10216,
+      "whole_chapter_han": 10972,
+      "external_links": 21,
+      "headings": 14
+    },
+    {
+      "number": 26,
+      "part": 5,
+      "file": "26-japan-bubble.md",
+      "exists": true,
+      "body_han_estimate": 10361,
+      "whole_chapter_han": 11038,
+      "external_links": 18,
+      "headings": 13
+    },
+    {
+      "number": 27,
+      "part": 5,
+      "file": "27-japan-repair.md",
+      "exists": true,
+      "body_han_estimate": 11654,
+      "whole_chapter_han": 12627,
+      "external_links": 29,
+      "headings": 13
+    },
+    {
+      "number": 28,
+      "part": 5,
+      "file": "28-china-1994.md",
+      "exists": true,
+      "body_han_estimate": 10981,
+      "whole_chapter_han": 12330,
+      "external_links": 31,
+      "headings": 12
+    },
+    {
+      "number": 29,
+      "part": 5,
+      "file": "29-china-soe-banks.md",
+      "exists": true,
+      "body_han_estimate": 11852,
+      "whole_chapter_han": 12635,
+      "external_links": 30,
+      "headings": 12
+    },
+    {
+      "number": 30,
+      "part": 5,
+      "file": "30-china-housing.md",
+      "exists": true,
+      "body_han_estimate": 13267,
+      "whole_chapter_han": 14190,
+      "external_links": 28,
+      "headings": 13
+    },
+    {
+      "number": 31,
+      "part": 6,
+      "file": "31-europe-mexico.md",
+      "exists": true,
+      "body_han_estimate": 12552,
+      "whole_chapter_han": 13342,
+      "external_links": 24,
+      "headings": 12
+    },
+    {
+      "number": 32,
+      "part": 6,
+      "file": "32-asian-crisis.md",
+      "exists": true,
+      "body_han_estimate": 13687,
+      "whole_chapter_han": 14688,
+      "external_links": 38,
+      "headings": 12
+    },
+    {
+      "number": 33,
+      "part": 6,
+      "file": "33-russia-ltcm.md",
+      "exists": true,
+      "body_han_estimate": 11901,
+      "whole_chapter_han": 12962,
+      "external_links": 29,
+      "headings": 10
+    },
+    {
+      "number": 34,
+      "part": 6,
+      "file": "34-dotcom.md",
+      "exists": true,
+      "body_han_estimate": 10736,
+      "whole_chapter_han": 11459,
+      "external_links": 24,
+      "headings": 10
+    },
+    {
+      "number": 35,
+      "part": 6,
+      "file": "35-china-wto.md",
+      "exists": true,
+      "body_han_estimate": 10914,
+      "whole_chapter_han": 11836,
+      "external_links": 23,
+      "headings": 10
+    },
+    {
+      "number": 36,
+      "part": 6,
+      "file": "36-global-imbalances.md",
+      "exists": true,
+      "body_han_estimate": 13678,
+      "whole_chapter_han": 14449,
+      "external_links": 15,
+      "headings": 11
+    },
+    {
+      "number": 37,
+      "part": 7,
+      "file": "37-us-housing-credit.md",
+      "exists": true,
+      "body_han_estimate": 10663,
+      "whole_chapter_han": 11780,
+      "external_links": 17,
+      "headings": 10
+    },
+    {
+      "number": 38,
+      "part": 7,
+      "file": "38-global-dollar-run.md",
+      "exists": true,
+      "body_han_estimate": 10987,
+      "whole_chapter_han": 12189,
+      "external_links": 22,
+      "headings": 11
+    },
+    {
+      "number": 39,
+      "part": 7,
+      "file": "39-bailouts.md",
+      "exists": true,
+      "body_han_estimate": 10484,
+      "whole_chapter_han": 11647,
+      "external_links": 16,
+      "headings": 10
+    },
+    {
+      "number": 40,
+      "part": 7,
+      "file": "40-qe-fiscal.md",
+      "exists": true,
+      "body_han_estimate": 9689,
+      "whole_chapter_han": 10779,
+      "external_links": 18,
+      "headings": 9
+    },
+    {
+      "number": 41,
+      "part": 7,
+      "file": "41-china-stimulus.md",
+      "exists": true,
+      "body_han_estimate": 9602,
+      "whole_chapter_han": 10728,
+      "external_links": 23,
+      "headings": 9
+    },
+    {
+      "number": 42,
+      "part": 7,
+      "file": "42-euro-crisis.md",
+      "exists": true,
+      "body_han_estimate": 11487,
+      "whole_chapter_han": 12230,
+      "external_links": 23,
+      "headings": 10
+    },
+    {
+      "number": 43,
+      "part": 8,
+      "file": "43-qe-decade.md",
+      "exists": true,
+      "body_han_estimate": 9972,
+      "whole_chapter_han": 11048,
+      "external_links": 29,
+      "headings": 12
+    },
+    {
+      "number": 44,
+      "part": 8,
+      "file": "44-austerity-politics.md",
+      "exists": true,
+      "body_han_estimate": 8766,
+      "whole_chapter_han": 9635,
+      "external_links": 26,
+      "headings": 11
+    },
+    {
+      "number": 45,
+      "part": 8,
+      "file": "45-japan-abenomics.md",
+      "exists": true,
+      "body_han_estimate": 8478,
+      "whole_chapter_han": 9232,
+      "external_links": 22,
+      "headings": 11
+    },
+    {
+      "number": 46,
+      "part": 8,
+      "file": "46-emerging-cycle.md",
+      "exists": true,
+      "body_han_estimate": 9451,
+      "whole_chapter_han": 10249,
+      "external_links": 25,
+      "headings": 11
+    },
+    {
+      "number": 47,
+      "part": 8,
+      "file": "47-financial-regulation.md",
+      "exists": true,
+      "body_han_estimate": 9439,
+      "whole_chapter_han": 10179,
+      "external_links": 23,
+      "headings": 11
+    },
+    {
+      "number": 48,
+      "part": 8,
+      "file": "48-globalization-turn.md",
+      "exists": true,
+      "body_han_estimate": 10830,
+      "whole_chapter_han": 11622,
+      "external_links": 34,
+      "headings": 11
+    },
+    {
+      "number": 49,
+      "part": 9,
+      "file": "49-china-growth-transition.md",
+      "exists": true,
+      "body_han_estimate": 11304,
+      "whole_chapter_han": 12231,
+      "external_links": 16,
+      "headings": 8
+    },
+    {
+      "number": 50,
+      "part": 9,
+      "file": "50-china-shadow-banking.md",
+      "exists": true,
+      "body_han_estimate": 11212,
+      "whole_chapter_han": 12011,
+      "external_links": 27,
+      "headings": 8
+    },
+    {
+      "number": 51,
+      "part": 9,
+      "file": "51-china-2015.md",
+      "exists": true,
+      "body_han_estimate": 11450,
+      "whole_chapter_han": 12280,
+      "external_links": 26,
+      "headings": 8
+    },
+    {
+      "number": 52,
+      "part": 9,
+      "file": "52-china-supply-side.md",
+      "exists": true,
+      "body_han_estimate": 10950,
+      "whole_chapter_han": 12081,
+      "external_links": 29,
+      "headings": 8
+    },
+    {
+      "number": 53,
+      "part": 9,
+      "file": "53-china-deleveraging.md",
+      "exists": true,
+      "body_han_estimate": 10092,
+      "whole_chapter_han": 10879,
+      "external_links": 19,
+      "headings": 8
+    },
+    {
+      "number": 54,
+      "part": 9,
+      "file": "54-china-rebalancing.md",
+      "exists": true,
+      "body_han_estimate": 11623,
+      "whole_chapter_han": 12467,
+      "external_links": 17,
+      "headings": 8
+    },
+    {
+      "number": 55,
+      "part": 10,
+      "file": "55-pandemic-support.md",
+      "exists": true,
+      "body_han_estimate": 10171,
+      "whole_chapter_han": 11365,
+      "external_links": 26,
+      "headings": 9
+    },
+    {
+      "number": 56,
+      "part": 10,
+      "file": "56-inflation-return.md",
+      "exists": true,
+      "body_han_estimate": 9530,
+      "whole_chapter_han": 10501,
+      "external_links": 21,
+      "headings": 10
+    },
+    {
+      "number": 57,
+      "part": 10,
+      "file": "57-tightening-fragility.md",
+      "exists": true,
+      "body_han_estimate": 10269,
+      "whole_chapter_han": 11120,
+      "external_links": 26,
+      "headings": 11
+    },
+    {
+      "number": 58,
+      "part": 10,
+      "file": "58-china-property-adjustment.md",
+      "exists": true,
+      "body_han_estimate": 10883,
+      "whole_chapter_han": 11963,
+      "external_links": 23,
+      "headings": 10
+    },
+    {
+      "number": 59,
+      "part": 10,
+      "file": "59-china-debt-growth.md",
+      "exists": true,
+      "body_han_estimate": 10629,
+      "whole_chapter_han": 11685,
+      "external_links": 15,
+      "headings": 11
+    },
+    {
+      "number": 60,
+      "part": 10,
+      "file": "60-historical-comparison.md",
+      "exists": true,
+      "body_han_estimate": 11750,
+      "whole_chapter_han": 12790,
+      "external_links": 2,
+      "headings": 10
+    }
+  ]
+}

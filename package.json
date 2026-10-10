@@ -1,0 +1,18 @@
+{
+  "name": "economic-history-textbook",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "python3 tools/check_book.py --require-complete",
+    "check:rendered": "python3 tools/check_rendered.py",
+    "dev": "vitepress dev textbook --host 127.0.0.1 --port 5173 --strictPort",
+    "build": "vitepress build textbook",
+    "preview": "vite preview --host 127.0.0.1 --port 4173 --strictPort --outDir textbook/.vitepress/dist --base /economic-history/"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "overrides": {
+    "vite": "^6.4.3"
+  }
+}
